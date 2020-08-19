@@ -31,13 +31,13 @@ class GenusController extends Controller
     {
         $notes = [
           ['id'=>1, 'username'=>'AquaPelham',
-              'avatrUri'=>'https://cdn3.vectorstock.com/i/1000x1000/30/97/flat-business-man-user-profile-avatar-icon-vector-4333097.jpg',
+              'avatarUri'=>'https://cdn3.vectorstock.com/i/1000x1000/30/97/flat-business-man-user-profile-avatar-icon-vector-4333097.jpg',
               'note'=>'Inked!', 'date'=>'Aug. 20, 2015'],
-            ['id'=>1, 'username'=>'AquaPelham2',
-                'avatrUri'=>'https://cdn3.vectorstock.com/i/1000x1000/30/97/flat-business-man-user-profile-avatar-icon-vector-4333097.jpg',
+            ['id'=>2, 'username'=>'AquaPelham2',
+                'avaatrUri'=>'https://cdn3.vectorstock.com/i/1000x1000/30/97/flat-business-man-user-profile-avatar-icon-vector-4333097.jpg',
                 'note'=>'Inked!', 'date'=>'Aug. 20, 2015'],
-            ['id'=>1, 'username'=>'AquaPelham3',
-                'avatrUri'=>'https://cdn3.vectorstock.com/i/1000x1000/30/97/flat-business-man-user-profile-avatar-icon-vector-4333097.jpg',
+            ['id'=>3, 'username'=>'AquaPelham3',
+                'avatarUri'=>'https://cdn3.vectorstock.com/i/1000x1000/30/97/flat-business-man-user-profile-avatar-icon-vector-4333097.jpg',
                 'note'=>'Inked!', 'date'=>'Aug. 20, 2015'],
         ];
 

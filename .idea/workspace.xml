@@ -1,8 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="668193bc-550b-4264-ada9-599af3e05076" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Resources/views/base.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/app/Resources/views/base.html.twig" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/Resources/views/genus/show.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/app/Resources/views/genus/show.html.twig" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/AppBundle/Controller/GenusController.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/AppBundle/Controller/GenusController.php" afterDir="false" />
     </list>
@@ -20,6 +39,7 @@
       <list>
         <option value="composer.json" />
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -74,7 +94,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../aqua_note/app/Resources/views/base.html.twig" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -97,17 +117,32 @@
       <updated>1596882365280</updated>
       <workItem from="1596882366463" duration="464000" />
       <workItem from="1596882865246" duration="7262000" />
-      <workItem from="1597065893776" duration="5871000" />
+      <workItem from="1597065893776" duration="6625000" />
+      <workItem from="1597757431613" duration="6519000" />
+      <workItem from="1597821708692" duration="5887000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="618" y="224" width="424" height="491" key="FileChooserDialogImpl" timestamp="1596883111375">
-      <screen x="70" y="27" width="1530" height="873" />
+    <state x="731" y="265" width="424" height="484" key="FileChooserDialogImpl" timestamp="1597825417452">
+      <screen x="67" y="27" width="1853" height="1053" />
     </state>
+    <state x="731" y="265" width="424" height="484" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1597825417452" />
     <state x="618" y="224" width="424" height="491" key="FileChooserDialogImpl/70.27.1530.873@70.27.1530.873" timestamp="1596883111375" />
     <state x="70" y="332" width="761" height="568" key="NewPhpClassDialog" timestamp="1596883580437">
       <screen x="70" y="27" width="1530" height="873" />
@@ -117,6 +152,10 @@
       <screen x="70" y="27" width="1530" height="873" />
     </state>
     <state x="324" y="98" width="1022" height="737" key="SettingsEditor/70.27.1530.873@70.27.1530.873" timestamp="1596883113188" />
+    <state x="167" y="125" width="1653" height="855" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1597821809741">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="167" y="125" width="1653" height="855" key="com.intellij.history.integration.ui.views.FileHistoryDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1597821809741" />
     <state x="466" y="221" width="672" height="678" key="search.everywhere.popup" timestamp="1596889932011">
       <screen x="70" y="27" width="1530" height="873" />
     </state>
